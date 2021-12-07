@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React.js, Blockchain technology.
 - 📚 Always interested in learning more about new technologies. Some of the main stuff I'm always learning about: JavaScript, Node.js, Wolfram Language, Web Security, Cryptography and Web Development.
 - 💬 Ask me about Web Security, WolframResearch, life in Lima, life in Vancouver, UTEC.
-- 📫 How to reach me: jcpazos93@gmail.com
+- 📫 How to reach me: jcpazos93@gmail.com 
+ 
 
