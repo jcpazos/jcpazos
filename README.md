@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-#### I'm currently a Software Developer based in Lima. I've spent some time in Academia (got my B.Sc (Math and CS) and M.Sc (CS) from UBC Vancouver) with about half a year of industry experience during that. I then came back to Lima and have been working for WolframResearch for about 2 years.
+#### I'm currently a Software Developer based in Lima. I've spent some time in Academia (got my B.Sc (Math and CS) and M.Sc (CS) from UBC Vancouver). I then came back to Lima where I worked for WolframResearch for about 2 years. Nowadays I work remotely for Serena & Lily as a backend developer.
 
 [![Linkedin Badge](https://img.shields.io/badge/-jcpazos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-carlos-pazos/)](https://www.linkedin.com/in/jose-carlos-pazos/)
 
