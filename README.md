@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-jcpazos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-carlos-pazos/)](https://www.linkedin.com/in/jose-carlos-pazos/)
 
 - 🔭 I’m currently working on Serena & Lily's backend services, where we develop all of the technology to manage order fulfilment. I'm also a part-time lecturer at UTEC in Lima.
-- 🌱 I’m currently learning React.js, Blockchain technology.
 - 📚 Always interested in learning more about new technologies. Some of the main stuff I'm always learning about: JavaScript, Node.js, Web Security, Functional Programming, Cryptography and Web Development.
 - 💬 Ask me about Web Security, web development, life in Lima, life in Vancouver, UTEC.
 - 📫 How to reach me: jcpazos93@gmail.com 
